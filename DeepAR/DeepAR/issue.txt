@@ -1,0 +1,14 @@
+# Fix Issues
+
+# (OK)[] Fix : Lagged Sequence Inputs
+# (OK)[] Fix : Supervised Encoder
+# (OK)[] Fix : Supervised Decoder
+# (OK)[] Fix : Attention
+
+# Improvement
+
+# Improve 1 : TPA Mech + Temporal Mech (Visualize)
+# Improve 2 : Change Dataset
+# Improve 3 : Probability Forcast
+# Improve 4 : Shortcut Net
+# (OK) Improve 5 : Probability Teacher Forcing

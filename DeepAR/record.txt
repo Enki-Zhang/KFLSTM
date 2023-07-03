@@ -1,0 +1,2 @@
+# without z recurrent input : 28.93
+# with    z recurrent input : 31.01
